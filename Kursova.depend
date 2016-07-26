@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1306440332 source:c:\users\ivan\desktop\finita\kursova\check.cpp
+	"lib.h"
+
+1306441211 c:\users\ivan\desktop\finita\kursova\lib.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+
+1306437716 source:c:\users\ivan\desktop\finita\kursova\del.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\finita\kursova\expired.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\finita\kursova\insert.cpp
+	"lib.h"
+
+1306441177 source:c:\users\ivan\desktop\finita\kursova\longest.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\finita\kursova\view_all.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\finita\kursova\kursovarabota-pik2.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\finita\kursova\delete.cpp
+	"lib.h"
+
+1306440447 source:c:\users\ivan\desktop\finita\kursova\main.cpp
+	"lib.h"
+
+1306440509 source:c:\users\ivan\desktop\finita\kursova\write.cpp
+	"lib.h"
+
+1306478891 source:c:\users\ivan\desktop\kursova-pik\kursova\check.cpp
+	"lib.h"
+
+1306481185 c:\users\ivan\desktop\kursova-pik\kursova\lib.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<Windows.h>
+
+1306437716 source:c:\users\ivan\desktop\kursova-pik\kursova\del.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\kursova-pik\kursova\delete.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\kursova-pik\kursova\expired.cpp
+	"lib.h"
+
+1306437664 source:c:\users\ivan\desktop\kursova-pik\kursova\insert.cpp
+	"lib.h"
+
+1306441177 source:c:\users\ivan\desktop\kursova-pik\kursova\longest.cpp
+	"lib.h"
+
+1306482098 source:c:\users\ivan\desktop\kursova-pik\kursova\main.cpp
+	"lib.h"
+
+1306482143 source:c:\users\ivan\desktop\kursova-pik\kursova\view_all.cpp
+	"lib.h"
+
+1306440509 source:c:\users\ivan\desktop\kursova-pik\kursova\write.cpp
+	"lib.h"
+
